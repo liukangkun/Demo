@@ -2,9 +2,6 @@
     "name": "liukangkun/test",
     "description": "这是一个测试的包",
     "type": "library",
-    "require": {
-        "guzzlehttp/guzzle": "^7.5"
-    },
     "license": "测试的",
     "autoload": {
         "psr-4": {
